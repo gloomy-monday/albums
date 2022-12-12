@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78eed981.css",
+    "main.js": "/static/js/main.33233212.js",
+    "static/js/787.6fbf4827.chunk.js": "/static/js/787.6fbf4827.chunk.js",
+    "static/media/havewemet.jpg": "/static/media/havewemet.802d61bc82d0f4e7711b.jpg",
+    "static/media/kaputt.jpg": "/static/media/kaputt.84cada019077ac4a315e.jpg",
+    "static/media/fivespanishsongs.jpg": "/static/media/fivespanishsongs.04c83ba1c75d1f0d05ad.jpg",
+    "static/media/cityofdaughters.jpg": "/static/media/cityofdaughters.6d14b816cd46e3fb0a85.jpg",
+    "static/media/wellbuildthem.jpeg": "/static/media/wellbuildthem.267fe052b936068ed694.jpeg",
+    "static/media/labyrinthitis.jpeg": "/static/media/labyrinthitis.70cd6afba96a7bcb3044.jpeg",
+    "static/media/thisnight.jpeg": "/static/media/thisnight.64081c0a528657e80354.jpeg",
+    "static/media/thief.jpg": "/static/media/thief.795336d46f51b67e7b80.jpg",
+    "static/media/troubleindreams.jpg": "/static/media/troubleindreams.f3091ce69d1e24a5a9d3.jpg",
+    "static/media/yourblues.jpg": "/static/media/yourblues.c80a9da96d30a961d8fa.jpg",
+    "static/media/streethawk.jpg": "/static/media/streethawk.9a2a2b6ebcd77dc9440a.jpg",
+    "static/media/destroyersrubies.jpg": "/static/media/destroyersrubies.97c11fa636a89cd3690a.jpg",
+    "static/media/ken.jpg": "/static/media/ken.965666f924f3c2a765b6.jpg",
+    "static/media/poisonseason.jpg": "/static/media/poisonseason.64de83a8d56dfa425844.jpg",
+    "index.html": "/index.html",
+    "main.78eed981.css.map": "/static/css/main.78eed981.css.map",
+    "main.33233212.js.map": "/static/js/main.33233212.js.map",
+    "787.6fbf4827.chunk.js.map": "/static/js/787.6fbf4827.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78eed981.css",
+    "static/js/main.33233212.js"
+  ]
+}
